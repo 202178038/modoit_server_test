@@ -1,0 +1,3782 @@
+[
+ {
+  "emotion": 1,
+  "time_slot": "07:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "기분 좋은 음악 1곡 듣기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "07:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "편안한 자세로 5분간 명상하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "08:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "아침 햇살 3분 쐬기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "08:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "창밖 풍경 감상하며 심호흡 하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "09:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "감사한 일 1가지 적기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "09:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "오늘의 긍정 목표 적기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "09:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "이부자리 정리하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "09:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "오늘 하고 싶은 일 하나 적기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "10:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "짧은 산책하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "10:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "책상 정리하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "10:30",
+  "difficulty": 3,
+  "category": 3,
+  "content": "최근 나의 성취를 떠올리고 칭찬하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "10:30",
+  "difficulty": 3,
+  "category": 3,
+  "content": "최근 나를 행복하게 만든 일 정리하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "10:30",
+  "difficulty": 3,
+  "category": 3,
+  "content": "최근 3일 감정 곡선 그리기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "11:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "가까운 사람에게 안부 인사하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "10:30",
+  "difficulty": 3,
+  "category": 3,
+  "content": "10분 명상하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "14:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "좋아하는 노래 듣기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "12:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "기분 좋은 사진 보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "따뜻한 차 마시기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "스트레칭 하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "14:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "편안한 자세로 5분간 명상하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "14:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "최근 나를 웃게 한 순간 3가지 쓰기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "14:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "오늘 나에게 필요한 말 적기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "15:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "식사 후 산책하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "15:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "내가 좋아하는 나의 장점 떠올리기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "15:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "최근에 가장 웃긴 순간 떠올리기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "15:30",
+  "difficulty": 3,
+  "category": 3,
+  "content": "미래의 나에게 편지 쓰기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "15:30",
+  "difficulty": 3,
+  "category": 3,
+  "content": "내가 아침에 느낀 행복과 지금의 행복 차이 적기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "16:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "지금 당장 하고 싶은 일 3가지 적기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "15:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "10분 명상하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "14:30",
+  "difficulty": 3,
+  "category": 3,
+  "content": "창문을 닦거나 청소하며 감정 정돈하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "22:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "오늘 좋았던 순간을 일기장에 써보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "21:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "따뜻한 차 마시며 하루 마무리하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "21:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "지인에게 고마운 마음 담아 메시지 보내기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "18:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "기분 좋은 사진 보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "21:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "오늘 하루 감사한 일 1가지 적기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "22:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "스스로 칭찬할 일 3가지 적기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "18:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "나만을 위한 작은 선물 준비하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "20:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "좋아하는 노래 들으며 산책하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "21:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "좋아하는 책 읽기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "21:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "향초 피워놓고 일기 쓰기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "22:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "하루를 행복하게 만든 요소에 점수 매기기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "22:30",
+  "difficulty": 3,
+  "category": 3,
+  "content": "앞으로 감정이 무너질 때 써먹을 나만의 다짐문 작성해보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "23:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "감사한 10가지 적어보고 그 이유 생각해보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "23:30",
+  "difficulty": 3,
+  "category": 3,
+  "content": "내 감정을 가장 잘 나타내는 색으로 오늘 하루 그려보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "22:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "오늘 하루를 돌아보며 스스로에게 편지를 써보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "07:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "따뜻한 물 한 잔 마시기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "07:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "가벼운 스트레칭 하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "08:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "좋아하는 향수나 룸 스프레이 뿌려보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "08:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "좋아하는 음악 한 곡 들으면서 기지개 켜보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "어제보다 나아진 점 하나 떠올려보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "아침 햇빛 쬐며 10분 산책해보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "오늘 목표 3가지 간단히 적어보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "10:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "간단한 아침 요가 영상 따라 해보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "기분 좋게 느껴질 수 있는 옷차림 준비해보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "하루를 어떤 기분으로 마무리하고싶은지 상상해보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "10:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "좋아하는 노래를 들으면 러닝하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:30",
+  "difficulty": 3,
+  "category": 3,
+  "content": "좋아하는 음식 만들어 먹기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "11:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "오늘 내가 나에게 해주고 싶은 말 적어보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "“지금 감정이 하루 전체에 영향을 준다면 어떤 모습일까?” 상상해보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "11:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "15분 동안 명상 하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "12:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "기분 좋아지는 플레이리스트 듣기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "14:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "근처 카페가서 좋아하는 음료 사오기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "심호흡 3회 하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "점심 식사 후 가볍게 5분 걷기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "간단한 스트레칭 하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "오늘 오전 기분을 돌아보며 좋았던 순간 하나 적어보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "12:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "점심시간 동안 휴대폰 없이 걷기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "15:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "오늘 하루 중간점검 해보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "15:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "오늘 나를 가장 자극한 감정을 한 단어로 정리해보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "15:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "좋아하는 문장 읽기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "오전 동안 느낀 감정을 시간대별로 나눠 기록해보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "15:30",
+  "difficulty": 3,
+  "category": 3,
+  "content": "휴대폰 없이 15분간 감정 흐름 관찰해보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "16:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "나의 감정을 타인에게 설명하듯 써보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "16:30",
+  "difficulty": 3,
+  "category": 3,
+  "content": "감정의 원인, 반응, 결과를 3단계로 도식화해보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "16:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "감정으로 이야기 만들기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "21:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "좋아하는 향수나 룸 스프레이 뿌리고 기분 전환하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "17:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "오늘의 감정 상태를 하나의 단어로 정리해보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "23:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "조용한 음악 들으며 침대에 편하게 누워보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "21:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "밝은 조명을 줄이고 은은한 조명 켜두기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "20:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "나를 위해 준비한 간단한 야식이나 간식 즐겨보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "19:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "오늘 있었던 일 중, 누군가에게 감사했던 순간 떠올려보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "20:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "오늘 느낀 감정 중 나를 성장시킨 감정 찾아보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "20:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "오늘 있었던 소소한 감사한 일 2가지 적어보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "21:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "오늘 하루 나 자신에게 수고했다 말해보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "21:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "책이나 글귀 한 문단 읽고 감상 정리해보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "22:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "감정의 흐름을 타임라인으로 시각화해보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "22:30",
+  "difficulty": 3,
+  "category": 3,
+  "content": "오늘 하루의 감정 정리해보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "22:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "좋아하는 영화를 보며 감정 정리하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "23:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "오늘의 감정을 한 문장으로 요약해보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "23:30",
+  "difficulty": 3,
+  "category": 3,
+  "content": "오늘 느낀 감정 중 나를 성장시킨 감정 찾아보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "07:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "따뜻한 물이나 차 한 잔 마시기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "07:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "햇빛 드는 창가에 잠시 앉아 가만히 있기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "08:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "창문을 열고 심호흡 3회 하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "08:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "침대 위에서 할 수 있는 스트레칭 3가지 해보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "09:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "이부자리 정리하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "09:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "스스로에게 칭찬하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "09:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "오늘 내가 나에게 가장 해주고 싶은 말 한 문장 적어보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "10:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "오늘 할 일 중 ‘꼭 하지 않아도 괜찮은 것’ 한 가지 지워보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "10:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "최근 감정 기복이 심했던 순간 하나 떠올려보고 정리해보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "10:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "‘지금 어떤 감정이 가장 큰가?’를 노트에 적어보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "11:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "좋아하는 노래 들으며 산책하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "09:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "어제 힘들었던 순간의 감정과 지금 비교해보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "11:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "오늘 하루를 보내기 위해 필요한 말, 행동 정리하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "08:30",
+  "difficulty": 3,
+  "category": 3,
+  "content": "오늘 하루를 끝낼 나에게 편지 쓰기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "11:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "내가 자주 빠지는 감정의 패턴 정리하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "12:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "힐링 영상 보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "14:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "좋아하는 음료 마시기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "13:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "편안한 음악 듣기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "13:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "주변에서 감사할 수 있는 것 한 가지 찾아보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "13:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "식사 후 10분 산책하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "14:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "마음에 드는 명언이나 문장 하나 찾아서 적어보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "14:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "눈 감고 3분간 심호흡하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "15:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "힘든 감정이 알려주는 메시지 하나 찾아보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "14:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "현재 감정 상태를 1~10점으로 평가해보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "16:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "오늘 가장 힘들었던 순간을 한 줄로 정리해보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "15:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "과거에도 이런 감정을 겪었던 순간과 지금 비교해보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "14:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "지금 감정이 ‘내 편’이라고 상상하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "16:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "오늘 감정을 단어 5개로 표현하고 이유 적어보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "16:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "운동하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "15:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "산책하며 풍경 사진 찍기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "17:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "감사한 일 1가지 적기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "17:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "마음이 편안해지는 유튜브 영상 보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "18:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "가까운 사람과 전화 통화하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "23:30",
+  "difficulty": 1,
+  "category": 3,
+  "content": "조명을 낮추고 따뜻한 조명 아래 조용히 누워보기 "
+ },
+ {
+  "emotion": 3,
+  "time_slot": "19:00",
+  "difficulty": 1,
+  "category": 3,
+  "content": "음악 한 곡 끝날 때까지 눈 감고 있기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "21:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "하루 동안 참았던 말 적어보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "22:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "반신욕 하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "20:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "오늘 가장 위로받았던 순간 적어보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "21:00",
+  "difficulty": 2,
+  "category": 3,
+  "content": "“오늘 나는 어떤 감정을 가장 많이 느꼈을까?” 생각해보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "21:30",
+  "difficulty": 2,
+  "category": 3,
+  "content": "스스로 응원하는 문장 적어보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "22:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "이 감정을 내일로 넘기지 않기 위한 방법 정리해보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "22:30",
+  "difficulty": 3,
+  "category": 3,
+  "content": "감정을 시간대별로 나눠 정리해보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "23:00",
+  "difficulty": 3,
+  "category": 3,
+  "content": "반복되는 감정의 원인 적어보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "23:30",
+  "difficulty": 3,
+  "category": 3,
+  "content": "감정을 내일로 넘기지 않기 위한 방법 정리해보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "23:30",
+  "difficulty": 3,
+  "category": 3,
+  "content": "감정을 색과 온도로 표현해보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "06:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "기상 후 햇볕 받으며 스트레칭 5분 하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "06:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "따뜻한 물 한 잔으로 몸 깨우기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "06:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "공복 혈당 체크하고 기록하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "09:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "가벼운 아침 산책 10분 하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "07:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "유산균이 풍부한 음식 섭취하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "07:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "아침 식사 전 간단한 복부 마사지하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "06:30",
+  "difficulty": 2,
+  "category": 1,
+  "content": "하루 물 섭취 목표 1잔 시작하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "07:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "손목 관절 회전 운동 3분 실시"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "07:30",
+  "difficulty": 2,
+  "category": 1,
+  "content": "목 스트레칭으로 긴장 풀기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "06:30",
+  "difficulty": 2,
+  "category": 1,
+  "content": "호흡 조절하며 명상 5분 해보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "07:30",
+  "difficulty": 3,
+  "category": 1,
+  "content": "아침 식사 전 손 씻기 및 손톱관리하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "09:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "건강한 도시락 구성 시도해보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "10:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "계단 오르기 5층 이상 실천하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "11:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "눈 피로 예방을 위해 눈 감고 3분 쉬기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "10:30",
+  "difficulty": 3,
+  "category": 1,
+  "content": "전신 스트레칭을 10분간 진행하여 몸의 긴장을 완화하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "가슴 펴기 자세로 1분 자세 교정"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "햇빛 아래 5분 걷기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "06:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "혈압 체크하고 결과 기록하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "06:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "혈당 측정 및 기록"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "08:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "걷기 앱으로 하루 걸을 걸음 수 설정하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "07:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "자기성찰 명상 10분하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "07:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "비타민 섭취하기(없으면 음식 섭취하기)"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "08:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "중간 간식으로 견과류 선택하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "11:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "무릎 굽혀 앉았다 일어나기 30회하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "11:30",
+  "difficulty": 2,
+  "category": 1,
+  "content": "물 500ml 마시기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "10:30",
+  "difficulty": 3,
+  "category": 1,
+  "content": "벽을 손으로 밀며 5분간 상체 근력 운동을 진행하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "11:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "독서 15분하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "11:30",
+  "difficulty": 3,
+  "category": 1,
+  "content": "두뇌퍼즐 풀기(수학추론퍼즐, 알고리즘 문제)"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "07:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "카페인 섭취 안 하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:30",
+  "difficulty": 3,
+  "category": 1,
+  "content": "손가락 스트레칭 1분"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "09:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "눈동자 좌우 회전 운동"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "07:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "아로마 향 맡고 심호흡하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "07:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "거울 보며 오늘도 잘할 수 있어 한마디 하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "06:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "따뜻한 물로 족욕 10분 하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "07:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "힐링 음악 듣기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "08:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "마사지볼로 발바닥 지압하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "10:30",
+  "difficulty": 2,
+  "category": 1,
+  "content": "허리 스트레칭 5분 실시하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "11:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "귀 지압으로 뇌 자극하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "07:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "단백질 섭취하기(계란, 두부, 귀리 등)"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "09:30",
+  "difficulty": 2,
+  "category": 1,
+  "content": "햇살 받으며, 심호흡 10분하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "10:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "가벼운 요가 동작 3가지 실천"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "11:30",
+  "difficulty": 3,
+  "category": 1,
+  "content": "맨몸 전신 운동 30분하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "11:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "면역력 식단 복습 및 조절하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "07:30",
+  "difficulty": 3,
+  "category": 1,
+  "content": "혈압 정상 범위 복습하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "06:30",
+  "difficulty": 3,
+  "category": 1,
+  "content": "찬물 세수하며 정신건강 챙기기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "12:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "나에게 한 마디 응원 말하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "귀에 이어플러그 착용하고 휴식"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "12:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "온찜질팩으로 복부 온열요법 하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "14:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "허벅지 근력운동 1세트 하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "15:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "손가락으로 목 주변 림프 마사지하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:30",
+  "difficulty": 2,
+  "category": 1,
+  "content": "건강 관련 뉴스 하나 읽기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "오침 전 카페인 섭취 여부 점검"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "12:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "식사 전 손 씻기 루틴 실행"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "14:30",
+  "difficulty": 2,
+  "category": 1,
+  "content": "과일·채소 섭취량 체크하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "15:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "건강 앱 기록 확인 및 정리"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "14:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "스트레스 수준 자가 체크하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "15:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "오늘 피로도 1~10점으로 평가하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:30",
+  "difficulty": 3,
+  "category": 1,
+  "content": "걷기 자세 점검 영상 시청"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "12:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "점심 헬스장 방문하여 운동하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "체중 기록 및 변화 관찰"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "스쿼트 10회 진행하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "14:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "건강 다이어리 하루 정리하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "허리 틀어주는 동작 1분"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "호흡법 복습 및 연습"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "14:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "바른 자세 앉기 10분 시도"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "실내 공기 환기 5분 실시"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:30",
+  "difficulty": 2,
+  "category": 1,
+  "content": "건강 목표 다이어리에 적기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "점심 식사 후 유산균 섭취하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "14:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "간단한 플랭크 30초 실시"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "14:30",
+  "difficulty": 2,
+  "category": 1,
+  "content": "비타민D 관련 정보 검색"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "12:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "신문 건강 코너 읽기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:30",
+  "difficulty": 3,
+  "category": 1,
+  "content": "입 벌리기와 턱 스트레칭 10분"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "14:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "관절 소리 체크 및 가볍게 풀기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "15:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "하루 커피 섭취량 확인하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "식곤증 깨기 위해 찬물 세수하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "12:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "점심시간에 오백보 걷기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "13:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "간헐적 단식 일정 기록하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "12:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "소화가 잘 되는 가벼운 식사하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "15:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "편안한 음악 듣기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "14:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "허리 둘레 측정 및 기록"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "12:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "소금 섭취량 줄이기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "13:30",
+  "difficulty": 2,
+  "category": 1,
+  "content": "신장 건강 영상 시청하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "14:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "심장 건강 영상 시청하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "15:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "다리 높이 올려 림프 순환 돕기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "13:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "핸드폰 멀리 두기 10분 실행하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "14:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "저염식 요리 레시피 검색"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "13:30",
+  "difficulty": 3,
+  "category": 1,
+  "content": "소화 불량 시 배 마사지"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "13:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "심호흡 후 심박수 체크하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "15:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "자극적 음식 섭취 빈도 점검"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "12:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "식사 중에 핸드폰 금지하고 '집중식사'하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "18:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "건강검진 항목 확인 및 캘린더 등록"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "19:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "정기 복약 알람 확인하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "19:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "하루 한 알 비타민 체크"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "20:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "견과류 한 줌 먹기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "20:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "목욕 후 수분크림 바르기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "18:30",
+  "difficulty": 2,
+  "category": 1,
+  "content": "마사지기 활용해 어깨 이완"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "20:30",
+  "difficulty": 2,
+  "category": 1,
+  "content": "스트레칭 밴드로 다리 당기기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "19:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "식이섬유 섭취하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "21:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "간단한 산책 30분하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "18:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "식욕 변화 감지 기록"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "19:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "신체 피로도 타임라인 기록"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "21:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "커피 대신 허브차 선택"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "23:30",
+  "difficulty": 3,
+  "category": 1,
+  "content": "취침 한 시간 전 핸드폰 시청금지"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "22:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "눈 마사지 후 온찜질"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "22:30",
+  "difficulty": 3,
+  "category": 1,
+  "content": "목욕 후 체온 변화 확인"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "22:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "반신욕 30분하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "21:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "심리테스트 하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "20:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "심리적 스트레스 그림으로 표현"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "20:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "활동량 앱 기록 그래프 확인"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "21:30",
+  "difficulty": 1,
+  "category": 1,
+  "content": "허리 펴고 앉기 알림 설정"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "19:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "근육통 부위 얼음찜질 실시"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "20:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "휴대폰 화면 블루라이트 차단 설정"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "21:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "건강 식단 앱에 오늘 식사 등록"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "21:30",
+  "difficulty": 2,
+  "category": 1,
+  "content": "심신 안정 유튜브 영상 시청"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "22:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "오늘 식습관 점검하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "21:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "건강 팟캐스트 듣기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "20:30",
+  "difficulty": 3,
+  "category": 1,
+  "content": "땀 배출량 확인하며 수분 조절"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "19:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "자연 재료 건강차 끓이기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "22:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "자신에게 맞는 베개 찾기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "20:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "건강용품 정리 및 상태 확인(부족 시 구매하기)"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "18:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "수면 일기 쓰기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "19:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "체온 일지 기록 업데이트"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "20:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "소화력 향상을 위한 자세 조정"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "21:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "발바닥 굴리기 마사지 3분"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "22:00",
+  "difficulty": 1,
+  "category": 1,
+  "content": "신체 통증 점검 루틴 수행"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "21:30",
+  "difficulty": 2,
+  "category": 1,
+  "content": "과음 피하기 체크리스트 확인"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "22:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "비타민 B군 정보 읽기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "20:30",
+  "difficulty": 2,
+  "category": 1,
+  "content": "안구 건조 예방법 메모"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "23:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "야외활동 시 자외선지수 확인"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "21:00",
+  "difficulty": 2,
+  "category": 1,
+  "content": "영양소별 1일 섭취량 복습"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "22:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "찬물 샤워하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "23:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "일정 되짚으며 '하루 돌아보기' 3줄 작성하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "20:00",
+  "difficulty": 3,
+  "category": 1,
+  "content": "저녁식사 후 2시간 운동하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "23:30",
+  "difficulty": 3,
+  "category": 1,
+  "content": "취침 전 다음날 건강 생각하며 잠들기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "22:30",
+  "difficulty": 3,
+  "category": 1,
+  "content": "건강을 생각하며 금주하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "09:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "하루 목표 1줄 정리"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "08:30",
+  "difficulty": 1,
+  "category": 2,
+  "content": "감사한 일 2가지 기록"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "08:30",
+  "difficulty": 1,
+  "category": 2,
+  "content": "간단 5분 스트레칭"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "09:30",
+  "difficulty": 1,
+  "category": 2,
+  "content": "공간 1곳 정돈 (침대\/책상 등)"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "09:30",
+  "difficulty": 1,
+  "category": 2,
+  "content": "오늘 일정 빠르게 정렬"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "10:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "책 1쪽 소리 내서 읽기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "09:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "오늘 먹고 싶은 것 적기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "08:30",
+  "difficulty": 2,
+  "category": 2,
+  "content": "1분 명상 (타이머 사용)"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "09:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "물 1컵 마시며 천천히 숨 고르기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "09:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "창문 열고 5분 환기하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "10:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "현관 바닥 청소하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "11:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "분리 수거 하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "10:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "오늘 할 수 있는 일 3개 정하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "10:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "샤워 후 욕실 정리하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "10:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "스스로에게 응원 메시지 5줄 써보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:30",
+  "difficulty": 1,
+  "category": 2,
+  "content": "급한 일 3가지 우선순위 정하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "11:30",
+  "difficulty": 1,
+  "category": 2,
+  "content": "스마트폰 알림 잠시 꺼두기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "11:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "가방 안 물건 간단 정리"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "10:30",
+  "difficulty": 1,
+  "category": 2,
+  "content": "3분 안에 할 수 있는 정비할 일 하나 처리"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "10:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "좋아하는 음악 1곡 듣기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "오늘 기분을 색깔로 표현해보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "아침 식사 중 스마트폰 없이 먹기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:30",
+  "difficulty": 2,
+  "category": 2,
+  "content": "할 일 리스트에 별표 하나 추가해보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:30",
+  "difficulty": 2,
+  "category": 2,
+  "content": "주변 물건 정리하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "11:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "최근 본 유익한 글\/영상 떠올리기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "11:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "전자레인지\/가스레인지 내부 청소하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "오늘 꼭 안 해도 되는 일 한 가지 지우기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "10:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "책분류 및 책장 정리하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "“지금 내가 할 수 있는 일은?” 1개 적기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "08:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "일어나서 양치 후, 불 끄고 눈 감고 앉아 보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "09:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "오늘 할 일 중 가장 쉬운 것 하나만 하기로 약속"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "09:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "무리하지 않기로 마음속 다짐"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "09:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "소리 없이 1분 동안 눈 감고 자기 감정 느껴보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "09:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "불편한 일정 1개만 조정할 수 있을지 고민"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "10:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "“지금 내가 필요한 건?” 생각하며 호흡"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "10:30",
+  "difficulty": 2,
+  "category": 2,
+  "content": "오늘 마음 상태 다잡아 보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "11:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "스스로에게 “괜찮아” 한마디 해보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "11:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "주변 물건 소독하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "11:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "컴퓨터 바탕화면 정리하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "10:30",
+  "difficulty": 2,
+  "category": 2,
+  "content": "오늘 나를 위한 사소한 선물 정하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "10:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "방충망 청소하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "10:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "모바일 앱 정리하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "09:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "오늘의 휴식 10분 계획하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "10:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "“힘들다”는 말 3번 말해보고 천천히 들이마시기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "09:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "오늘의 마음 관리 계획 세우기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "12:30",
+  "difficulty": 1,
+  "category": 2,
+  "content": "점심 먹는 동안 잠시 스마트폰 내려놓기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "12:30",
+  "difficulty": 1,
+  "category": 2,
+  "content": "이메일\/메신저 빠르게 정리"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "물 마시며 오전 루틴 돌아보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "14:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "간단한 스트레칭 (목, 어깨 중심)"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "14:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "“지금 즐거운 이유” 한 줄 메모"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "14:30",
+  "difficulty": 2,
+  "category": 2,
+  "content": "주변 사람에게 짧은 안부 인사 보내기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "14:30",
+  "difficulty": 2,
+  "category": 2,
+  "content": "오늘 기분 점수(1~10) 기록"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "15:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "휴식시간 5분 타이머 설정 후 눈 감기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "14:30",
+  "difficulty": 2,
+  "category": 2,
+  "content": "간식이나 음료 선택에 ‘나를 위한 선택’ 해보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "12:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "‘점심 먹고 싶은 장소 리스트’ 작성"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "작은 선반 하나 정리하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "12:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "음식을 천천히 씹으며 감각에 집중"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "“힘 안 들이고 할 수 있는 정리” 하나 해보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "점심 후 5분간 자리 정리"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "점심 직후 다음 행동을 구체화 해보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "식사 후 손목 스트레칭 10초"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:30",
+  "difficulty": 1,
+  "category": 2,
+  "content": "스케줄 앱\/캘린더 1분 점검"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "간단한 식사 후 100걸음 걷기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "15:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "하루 중반 기분 적어보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "15:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "정리되지 않은 메모\/파일 1개 정돈"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "16:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "물건 하나 닦기 (예: 핸드폰, 안경)"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:30",
+  "difficulty": 2,
+  "category": 2,
+  "content": "오늘의 에너지 시간 1개 계획"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "16:30",
+  "difficulty": 2,
+  "category": 2,
+  "content": "익숙한 장소 사진 찍고 새롭게 보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "17:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "타이머 맞춰 3분 명상"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "17:30",
+  "difficulty": 2,
+  "category": 2,
+  "content": "뉴스 대신 팟캐스트\/음악 듣기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "12:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "점심으로 따뜻한 국물 먹기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "15:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "‘해야 할 일’보다 ‘하고 싶은 일’ 하나 떠올리기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "16:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "방해 알림 정리하기(앱 알림,스팸)"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "16:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "사용하지 않는 웹사이트 계정 정리하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "17:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "지갑 속 카드 영수증 정리"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "17:30",
+  "difficulty": 1,
+  "category": 2,
+  "content": "잠금 화면 문구 또는 배경 변경하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "13:30",
+  "difficulty": 1,
+  "category": 2,
+  "content": "무리한 일정 1개 조정 시도"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "16:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "억지로 잘하려 하지 않기 메모"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "13:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "점심 후 3분간 호흡만 느끼기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "18:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "주변에 고마운 사람 1명 떠올리기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "18:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "‘힘듦’을 말로 적어보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "16:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "좋아하는 음료 마시기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "16:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "“오늘 할 수 있는 최선은 무엇일까” 생각"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "17:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "SNS 대신 공원 사진 보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "13:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "점심 약속이 부담되면 조용한 시간 선택"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "15:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "아무 말 없이 천천히 걸어보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "15:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "노트에 “지금의 나 괜찮다” 적어보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "15:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "쪽잠 자서 컨디션 회복하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "15:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "오늘의 기분 그림으로 표현하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "14:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "힘든 마음을 인정하며 따뜻한 음료 마시기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "20:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "내일 일정 1개 미리 조정"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "22:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "3분간 따뜻한 물에 손 담그기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "23:00:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "잠들기 전 할 일 한 가지만 정해두기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "23:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "불필요한 앱 알림 1개 끄기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "23:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "자는 동안 충전할 물건 하나 적기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "22:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "좋아하는 음악 1곡 들으며 눈 감기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "22:30",
+  "difficulty": 2,
+  "category": 2,
+  "content": "오늘 있었던 기분 좋은 일 음성 메모로 기록"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "20:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "방 안 조명 조절해 분위기 바꾸기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "21:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "핸드폰 충전하며 나도 쉬기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "21:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "오늘 쓴 돈 금액만 정리해보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "20:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "조용한 영상(캠프파이어, 파도 등) 틀어두기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "23:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "따뜻한 물로 세수하며 마무리"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "00:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "아무것도 하지 않고 누워있기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "21:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "유튜브 보고 요가 30분하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "22:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "내일 아침 가장 먼저 할 일 다섯가지 생각"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "21:30",
+  "difficulty": 1,
+  "category": 2,
+  "content": "책 5쪽 소리 내서 읽기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "23:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "하루 정리용 음성 메모 1분 남기기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "23:30",
+  "difficulty": 1,
+  "category": 2,
+  "content": "내일 입을 옷 미리 꺼내기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "00:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "자기 전 화면 밝기 줄이기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "22:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "간단한 가계부 앱으로 오늘 소비 체크"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "22:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "오늘 하루 기분 그래프로 표현하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "22:30",
+  "difficulty": 2,
+  "category": 2,
+  "content": "가장 집중된 순간 1개 메모"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "19:30",
+  "difficulty": 2,
+  "category": 2,
+  "content": "누군가와 짧은 톡 or 메시지로 대화"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "22:30",
+  "difficulty": 2,
+  "category": 2,
+  "content": "방 온도\/습도 체크하고 조정"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "20:30",
+  "difficulty": 2,
+  "category": 2,
+  "content": "냉장고 속 유통기한 지난 것 1개 버리기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "23:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "불 끄고 조용히 눕기, 자기 성찰하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "19:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "외출 용품 (우산, 양산등) 정비하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "20:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "배경음악 없이 혼자만의 조용한 시간 5분"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "20:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "방 안 조명을 따뜻한 색으로 바꾸기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "23:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "오늘 한 일 중 의미 있었던 것 한 개 적기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "23:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "일정\/메모 삭제하면서 줄이기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "23:30",
+  "difficulty": 1,
+  "category": 2,
+  "content": "스스로에게 ‘수고했어’ 3번 말하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "23:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "아무에게도 보여주지 않을 감정 일기 쓰기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "22:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "자기 전에 “내가 컨트롤할 수 있는 것” 정리"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "22:00",
+  "difficulty": 1,
+  "category": 2,
+  "content": "눈 감고 손 얹고 숨 고르기 (3회 반복)"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "22:30",
+  "difficulty": 2,
+  "category": 2,
+  "content": "오늘 감정이 올라간 순간 1개 떠올리기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "20:30",
+  "difficulty": 2,
+  "category": 2,
+  "content": "“괜찮지 않아도 돼”라고 속으로 말해보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "19:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "차가운 물로 손 씻고 긴장 풀기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "19:30",
+  "difficulty": 2,
+  "category": 2,
+  "content": "누군가에게 듣고 싶은 말을 스스로에게 쓰기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "22:00",
+  "difficulty": 2,
+  "category": 2,
+  "content": "작은 촛불이나 조명 켜두고 침묵 유지"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "21:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "가구 재배치 해보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "21:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "집 상태 체크리스트 만들어보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "21:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "앞으로 1달간의 캘린더 계획하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "20:00",
+  "difficulty": 3,
+  "category": 2,
+  "content": "침대 프레임 아래 먼지 제거 및 닦기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "23:30",
+  "difficulty": 3,
+  "category": 2,
+  "content": "감정 없이 라디오나 조용한 음악 틀어두기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "08:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "좋아하는 과목 관련 뉴스 10분 읽기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "08:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "어제 배운 내용 중 흥미로운 부분 복습하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "09:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "어려운 개념 관련 심화 자료 찾아보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "12:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "친구와 점심 먹으며 간단한 퀴즈 풀기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "12:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "다음 수업 예습하며 재미있는 부분 찾아보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "점심 시간 활용하여 그룹 스터디 토론 참여하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "18:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "오늘 공부한 내용 중 기억에 남는 것 일기 쓰기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "18:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "다음 날 공부 계획 세우며 기대되는 부분 확인하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "19:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "학업 관련 유튜브 채널 보며 새로운 정보 얻기 (흥미 위주)"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "08:30",
+  "difficulty": 1,
+  "category": 4,
+  "content": "수업 시간 5분 일찍 도착해서 지난 시간 내용 훑어보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:00",
+  "difficulty": 2,
+  "category": 4,
+  "content": "오늘 수업할 내용 미리 읽어보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:30",
+  "difficulty": 3,
+  "category": 4,
+  "content": "이해 안 가는 부분 질문 목록 작성하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "12:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "점심 먹고 소화시키며 강의 자료 간단히 넘겨보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "12:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "점심 시간 중 20분 할애하여 문제 풀이"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "점심 스터디 그룹에 참여하여 특정 문제 해결 논의"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "18:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "오늘 수업 노트 정리 15분 하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "18:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "오늘 배운 내용 요약 정리"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "19:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "오늘 학습한 내용 기반 응용 문제 풀이"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "07:30",
+  "difficulty": 1,
+  "category": 4,
+  "content": "일어나자마자 제일 어려운 개념 5분 복습"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "08:00",
+  "difficulty": 2,
+  "category": 4,
+  "content": "일어나서 집중 안 되더라도 복잡한 문제 1개 풀기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "08:30",
+  "difficulty": 3,
+  "category": 4,
+  "content": "오전 쌩쌩한 정신에 가장 이해 안 가는 개념 붙잡고 씨름하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "12:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "식곤증 오더라도 어려운 단어 3개 외우기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "12:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "점심 후 졸음 참으며 암기 필요한 내용 집중 학습"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "13:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "점심 시간 쪼개 어려운 프로젝트 코드 리뷰"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "18:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "피곤해도 자기 전 5분, 틀렸던 문제 다시 보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "18:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "집중력 떨어져도 심화 문제 1-2개 풀기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "19:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "밤샘 공부하며 어려운 논문 읽고 요약하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "08:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "좋아하는 과목 관련 뉴스 10분 읽기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "08:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "어제 배운 내용 중 흥미로운 부분 복습하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "09:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "어려운 개념 관련 심화 자료 찾아보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "12:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "친구와 점심 먹으며 간단한 퀴즈 풀기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "12:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "다음 수업 예습하며 재미있는 부분 찾아보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "점심 시간 활용하여 그룹 스터디 토론 참여하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "18:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "오늘 공부한 내용 중 기억에 남는 것 일기 쓰기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "18:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "다음 날 공부 계획 세우며 기대되는 부분 확인하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "19:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "학업 관련 유튜브 채널 보며 새로운 정보 얻기 (흥미 위주)"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "08:30",
+  "difficulty": 1,
+  "category": 4,
+  "content": "수업 시간 5분 일찍 도착해서 지난 시간 내용 훑어보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:00",
+  "difficulty": 2,
+  "category": 4,
+  "content": "오늘 수업할 내용 미리 읽어보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "09:30",
+  "difficulty": 3,
+  "category": 4,
+  "content": "이해 안 가는 부분 질문 목록 작성하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "12:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "점심 먹고 소화시키며 강의 자료 간단히 넘겨보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "12:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "점심 시간 중 20분 할애하여 문제 풀이"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "점심 스터디 그룹에 참여하여 특정 문제 해결 논의"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "18:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "오늘 수업 노트 정리 15분 하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "18:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "오늘 배운 내용 요약 정리"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "19:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "오늘 학습한 내용 기반 응용 문제 풀이"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "07:30",
+  "difficulty": 1,
+  "category": 4,
+  "content": "일어나자마자 제일 어려운 개념 5분 복습"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "08:00",
+  "difficulty": 2,
+  "category": 4,
+  "content": "일어나서 집중 안 되더라도 복잡한 문제 1개 풀기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "08:30",
+  "difficulty": 3,
+  "category": 4,
+  "content": "오전 쌩쌩한 정신에 가장 이해 안 가는 개념 붙잡고 씨름하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "12:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "식곤증 오더라도 어려운 단어 3개 외우기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "12:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "점심 후 졸음 참으며 암기 필요한 내용 집중 학습"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "13:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "점심 시간 쪼개 어려운 프로젝트 코드 리뷰"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "18:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "피곤해도 자기 전 5분, 틀렸던 문제 다시 보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "18:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "집중력 떨어져도 심화 문제 1-2개 풀기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "19:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "밤샘 공부하며 어려운 논문 읽고 요약하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "07:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "일어나서 좋아하는 음악 들으며 스트레칭 5분"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "07:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "상쾌하게 아침 산책 20분"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "08:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "아침 운동 루틴 (고강도) 즐겁게 소화하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "12:30",
+  "difficulty": 1,
+  "category": 4,
+  "content": "점심 후 동료와 짧게 웃으며 걷기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:00",
+  "difficulty": 2,
+  "category": 4,
+  "content": "점심시간 활용하여 좋아하는 운동 30분"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:30",
+  "difficulty": 3,
+  "category": 4,
+  "content": "점심 시간 체육관에서 고강도 운동 후 개운함 느끼기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "18:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "저녁 먹고 가볍게 집 주변 걷기 (기분 전환)"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "18:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "좋아하는 유산소 운동 40분"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "19:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "저녁 시간 복잡한 동작의 요가\/필라테스 마스터하기 (성취감)"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "06:30",
+  "difficulty": 1,
+  "category": 4,
+  "content": "기상 후 물 한 잔 마시기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "07:00",
+  "difficulty": 2,
+  "category": 4,
+  "content": "아침 식사 챙겨 먹기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "07:30",
+  "difficulty": 3,
+  "category": 4,
+  "content": "공복 유산소 운동 30분 (힘들어도 꾸준히)"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "12:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "점심 식사 시 야채 챙겨 먹기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "12:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "점심 시간 20분 걷거나 계단 이용하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "점심 시간 헬스장에서 웨이트 트레이닝 30분"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "21:30",
+  "difficulty": 1,
+  "category": 4,
+  "content": "자기 전 간단한 맨몸 운동 10분"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "22:00",
+  "difficulty": 2,
+  "category": 4,
+  "content": "오늘 식단 기록하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "22:30",
+  "difficulty": 3,
+  "category": 4,
+  "content": "퇴근 후 헬스장 가서 목표 무게로 운동하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "06:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "일어나기 힘들어도 알람 듣고 바로 침대에서 스트레칭 2분"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "06:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "컨디션 안 좋아도 아침 조깅 20분 시도"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "07:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "아침 일찍 일어나기 싫어도 새벽 운동 강행군"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "12:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "식곤증 오더라도 건강한 음식 선택하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "12:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "점심 후 피곤해도 짧은 명상 또는 휴식 없이 바로 활동"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "13:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "점심 시간 짧더라도 극한의 인터벌 트레이닝"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "21:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "피곤해도 자기 전 물 한 잔 꼭 마시기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "21:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "야근 후에도 예정된 운동 루틴 수행"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "22:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "체력 극한까지 끌어올리는 심야 운동 후 버티기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "07:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "아침에 좋아하는 시 한 편 읽기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "07:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "재미있는 소설 챕터 1개 읽기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "08:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "오전에 흥미진진한 추리 소설 결말까지 읽기 (시간 투자)"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "12:30",
+  "difficulty": 1,
+  "category": 4,
+  "content": "점심 먹으며 웹툰 1편 보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:00",
+  "difficulty": 2,
+  "category": 4,
+  "content": "가볍게 읽을 수 있는 에세이 20분 읽기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:30",
+  "difficulty": 3,
+  "category": 4,
+  "content": "점심 시간 북클럽 모임에서 책 내용 깊이 토론하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "18:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "하루를 마무리하며 좋아하는 구절 다시 읽기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "18:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "자기 전 따뜻한 내용의 책 30분 읽기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "19:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "밤새 좋아하는 작가의 작품 세계 탐구 (푹 빠져서)"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "06:30",
+  "difficulty": 1,
+  "category": 4,
+  "content": "책 표지 훑어보며 오늘 읽을 책 고르기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "07:00",
+  "difficulty": 2,
+  "category": 4,
+  "content": "출근\/등교길 지하철에서 뉴스 기사 읽기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "07:30",
+  "difficulty": 3,
+  "category": 4,
+  "content": "오전에 집중 필요한 비문학 서적 일정 분량 읽기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "12:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "점심 먹고 눈으로 빠르게 훑어보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "12:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "점심 시간 틈틈이 전문 서적 10분 읽기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "점심 시간 도서관에서 어려운 학술 논문 읽기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "21:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "오늘 읽은 내용 중 키워드 3개 정리"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "21:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "오늘 읽은 책 내용 요약하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "22:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "읽은 책 내용에 대한 서평 쓰기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "06:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "일어나자마자 이해 안 되는 철학 서적 1페이지 읽기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "06:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "졸음 참고 어려운 전공 서적 아침에 읽기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "07:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "새벽에 일어나 난해한 고전 문학 작품 분석 시도"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "12:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "식곤증 와도 졸음 참으며 어려운 문구 2개 외우기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "12:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "점심 후 피곤해도 집중해서 어려운 법률 서적 읽기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "13:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "점심 시간 짧더라도 어려운 기술 문서 원문 읽고 이해하려 노력"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "21:30",
+  "difficulty": 1,
+  "category": 4,
+  "content": "피곤해도 자기 전 5분, 오늘 읽은 어려운 문장 다시 보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "22:00",
+  "difficulty": 2,
+  "category": 4,
+  "content": "집중 안 돼도 자기 전 어려운 역사책 연도 외우기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "22:30",
+  "difficulty": 3,
+  "category": 4,
+  "content": "밤샘 독서하며 외국 원서로 전문 지식 습득"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "07:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "좋아하는 자격증 관련 커뮤니티 글 5분 보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "07:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "자격증 강의 중 재미있는 부분 다시 보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "08:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "오전에 가장 좋아하고 자신 있는 파트 집중 학습 (성취감 느끼며)"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "12:30",
+  "difficulty": 1,
+  "category": 4,
+  "content": "자격증 공부 관련 긍정적인 후기 찾아보기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:00",
+  "difficulty": 2,
+  "category": 4,
+  "content": "점심 시간 틈틈이 자격증 관련 가벼운 퀴즈 풀기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "13:30",
+  "difficulty": 3,
+  "category": 4,
+  "content": "점심 시간 스터디 그룹에서 예상 문제 만들어 서로 풀기 (재미있게)"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "18:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "오늘 공부한 내용 중 기억에 남는 꿀팁 정리하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "18:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "다음 자격증 공부 계획 세우며 합격 상상하기"
+ },
+ {
+  "emotion": 1,
+  "time_slot": "19:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "자격증 관련 심화 프로젝트 진행하며 즐거움 찾기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "06:30",
+  "difficulty": 1,
+  "category": 4,
+  "content": "자격증 시험 D-day 확인하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "07:00",
+  "difficulty": 2,
+  "category": 4,
+  "content": "자격증 교재 어제 본 내용 빠르게 훑어보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "07:30",
+  "difficulty": 3,
+  "category": 4,
+  "content": "오전에 집중해서 이론 개념 암기 시작하기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "12:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "점심 먹고 자격증 용어 2개 찾아보기"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "12:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "점심 시간 20분 할애하여 문제 풀이"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "13:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "점심 시간 스터디 그룹에서 특정 문제 유형 해결 논의"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "21:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "오늘 공부한 자격증 이론 노트 정리 15분"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "21:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "자격증 모의고사 1회 풀이"
+ },
+ {
+  "emotion": 2,
+  "time_slot": "22:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "오늘 학습한 내용 기반 응용 문제 심화 학습"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "06:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "일어나자마자 제일 어렵게 느껴지는 자격증 파트 용어 3개 보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "06:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "일어나서 집중 안 되더라도 계산 문제 1개 풀기 시도"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "07:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "오전 쌩쌩한 정신에 가장 이해 안 가는 이론 붙잡고 씨름하기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "12:00",
+  "difficulty": 1,
+  "category": 4,
+  "content": "식곤증 오더라도 틀렸던 문제 해설 5분 보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "12:30",
+  "difficulty": 2,
+  "category": 4,
+  "content": "점심 후 졸음 참으며 암기 필요한 공식 집중 학습"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "13:00",
+  "difficulty": 3,
+  "category": 4,
+  "content": "점심 시간 쪼개 어려운 계산 문제 풀이 연습"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "21:30",
+  "difficulty": 1,
+  "category": 4,
+  "content": "피곤해도 자기 전 5분, 오늘 틀린 문제 유형 다시 보기"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "22:00",
+  "difficulty": 2,
+  "category": 4,
+  "content": "집중력 떨어져도 자격증 기출 문제 풀이"
+ },
+ {
+  "emotion": 3,
+  "time_slot": "22:30",
+  "difficulty": 3,
+  "category": 4,
+  "content": "밤샘 공부하며 이해 안 가는 자격증 이론 파트 붙잡고 씨름하기"
+ }
+]
