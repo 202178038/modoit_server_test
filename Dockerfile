@@ -4,13 +4,14 @@
 FROM gradle:8.5-jdk17-alpine AS builder
 WORKDIR /workspace
 
-# 종속성 캐시를 위해 스크립트 먼저 복사
-COPY settings.gradle* build.gradle* gradle ./    
-# 필요하면 gradle.properties, gradle-wrapper.properties 등 추가
-RUN gradle clean bootJar --no-daemon
+# (1) 의존성 캐시용 최소 파일만 먼저 복사
+COPY settings.gradle* build.gradle* gradle ./     # kts 포함하려면 * 사용
+RUN gradle clean build -x test --no-daemon        # 캐시 생성
 
-# 실제 소스 복사 후 재빌드
-COPY src ./src
+# (2) 프로젝트 전체 복사  ← ★ src, resources 전부 포함
+COPY . .
+
+# (3) 실제 JAR 빌드
 RUN gradle clean bootJar --no-daemon
 
 ##
@@ -21,4 +22,4 @@ WORKDIR /app
 COPY --from=builder /workspace/build/libs/*.jar app.jar
 
 EXPOSE 8080
-ENTRYPOINT ["java", "-jar", "/app/app.jar", "--spring.profiles.active=prod"]
+ENTRYPOINT ["java","-jar","/app/app.jar","--spring.profiles.active=prod"]
