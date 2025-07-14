@@ -1,20 +1,24 @@
-# ★ name 은 Cloudtype 도메인에 그대로 쓰입니다.
-#   ⇒ https://routine-backend-<Cloudtype계정>.cloudtype.app
+# cloudtype.yml
 name: routine-backend
 
 app:
   build:
     context: .
     dockerfile: Dockerfile
-  port: 8080              # 컨테이너 내부 포트 (ENTRYPOINT와 동일)
-  env:                     # ← 여기에 **DB 접속 정보**를 “변수”로만 명시
-    SPRING_DATASOURCE_URL: jdbc:mariadb://${addon.routine-db.host}:${addon.routine-db.port}/${addon.routine-db.database}?characterEncoding=utf8&serverTimezone=Asia/Seoul
-    SPRING_DATASOURCE_USERNAME: ${addon.routine-db.username}
-    SPRING_DATASOURCE_PASSWORD: ${addon.routine-db.password}
-    SPRING_JPA_HIBERNATE_DDL_AUTO: update   # 필요 없으면 제거
+  port: 8080
 
-addons:
-  routine-db:              # ← 무료 MariaDB 인스턴스 한 개 붙이기
+  env:                       # ← 리스트(+name, value) 형식
+    - name: SPRING_DATASOURCE_URL
+      value: jdbc:mariadb://${addon.routine-db.host}:${addon.routine-db.port}/${addon.routine-db.database}?characterEncoding=utf8&serverTimezone=Asia/Seoul
+    - name: SPRING_DATASOURCE_USERNAME
+      value: ${addon.routine-db.username}
+    - name: SPRING_DATASOURCE_PASSWORD
+      value: ${addon.routine-db.password}
+    - name: SPRING_JPA_HIBERNATE_DDL_AUTO
+      value: update
+
+addons:                      # ← 역시 리스트 형식
+  - name: routine-db         # Add-on 이름
     type: mariadb
     plan: free
     version: "10.6"

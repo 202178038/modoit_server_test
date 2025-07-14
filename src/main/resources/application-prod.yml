@@ -1,17 +1,14 @@
+# application-prod.yml
 spring:
   datasource:
-    url: ${SPRING_DATASOURCE_URL}           # ← cloudtype.yml env 와 매칭
+    url: ${SPRING_DATASOURCE_URL}
     username: ${SPRING_DATASOURCE_USERNAME}
     password: ${SPRING_DATASOURCE_PASSWORD}
     driver-class-name: org.mariadb.jdbc.Driver
 
   jpa:
     hibernate:
-      ddl-auto: ${SPRING_JPA_HIBERNATE_DDL_AUTO:update}   # update · none · validate …
-
-# ↓ 필요하면 prod 전용 추가 설정
-#server:
-#  port: 8080
-#logging:
-#  level:
-#    root: INFO
+      ddl-auto: ${SPRING_JPA_HIBERNATE_DDL_AUTO:update}
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MariaDBDialect
