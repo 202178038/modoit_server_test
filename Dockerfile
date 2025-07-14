@@ -1,11 +1,11 @@
 ##
 ## 1단계 ─ Gradle로 JAR 빌드
 ##
-FROM gradle:8.5-jdk17-alpine AS builder          # Gradle 8.x + JDK 17
+FROM gradle:8.5-jdk17-alpine AS builder
 WORKDIR /workspace
 
 # 종속성 캐시를 위해 스크립트 먼저 복사
-COPY settings.gradle* build.gradle* gradle ./    # kts 도 포함되도록 * 사용
+COPY settings.gradle* build.gradle* gradle ./    
 # 필요하면 gradle.properties, gradle-wrapper.properties 등 추가
 RUN gradle clean bootJar --no-daemon
 
