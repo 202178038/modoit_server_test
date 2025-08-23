@@ -1,5 +1,6 @@
 spring:
   datasource:
+    # ⚠️ 실제 값은 환경변수로 주입됨
     url: ${SPRING_DATASOURCE_URL}
     username: ${SPRING_DATASOURCE_USERNAME}
     password: ${SPRING_DATASOURCE_PASSWORD}
@@ -11,6 +12,11 @@ spring:
     properties:
       hibernate:
         dialect: org.hibernate.dialect.MariaDBDialect
+        jdbc:
+          time_zone: Asia/Seoul   # ✅ DB <-> JPA 변환 기준 타임존
+
+  jackson:
+    time-zone: Asia/Seoul         # ✅ JSON 직렬화/역직렬화 기준 타임존
 
   mail:
     host: smtp.gmail.com
